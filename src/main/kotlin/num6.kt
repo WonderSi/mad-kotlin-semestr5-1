@@ -60,7 +60,7 @@ fun quadraticRoot(a: Double, b:Double, c:Double) {
 }
 
 fun main() {
-    println("Введите коэффициент ывашего уравнени:")
+    println("Введите коэффициенты вашего уравнени:")
 
     print("a = ")
     var a = readln().toDouble()
